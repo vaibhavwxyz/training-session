@@ -1,10 +1,10 @@
 # TechNeutron Training Sessions Readme
 
-## Introduction
+## 📕 Introduction
 
-Welcome to the TechNeutron training sessions! This repository contains materials and schedules for training sessions conducted by our team. These sessions aim to provide comprehensive learning opportunities for our colleagues on two key technologies: React Native and Java Spring Boot with JPA.
+Welcome to the TechNeutron training sessions! This repository contains materials and schedules for training sessions conducted by me. These sessions aim to provide comprehensive learning opportunities for our colleagues on two key technologies: React Native and Java Spring Boot with JPA.
 
-## React Native Training Schedule
+## <img height="20px" src="https://github.com/vaibhavwxyz/training-session/assets/73052214/62e6cc66-f73e-4627-ab4c-2c808977c57e"> React Native Training Schedule
 
 ### Week 1: Basics of React Native
 
@@ -60,7 +60,7 @@ Welcome to the TechNeutron training sessions! This repository contains materials
 - Introduction to React Native Web for web support
 - Recap and Q&A session
 
-## Java Spring Boot with JPA Training Schedule
+## <img height="20px" src="https://github.com/vaibhavwxyz/training-session/assets/73052214/75c6f0c2-d999-4ce0-8bf2-4896fe8d2abb"> Java Spring Boot with JPA Training Schedule
 
 ### Week 1: Introduction to Java Spring Boot
 
@@ -113,6 +113,6 @@ Welcome to the TechNeutron training sessions! This repository contains materials
 - Monitoring and logging with Spring Boot Actuator and ELK stack
 - Recap and Q&A session
 
-## Note
+## <img height="20px" src="https://github.com/vaibhavwxyz/training-session/assets/73052214/fffdf6ea-9f5d-44f5-9da6-950fbfa88af0"> Note
 
 This repository and the accompanying readme file will be regularly updated with session dates and any changes to the schedule. Stay tuned for updates!
